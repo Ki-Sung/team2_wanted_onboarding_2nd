@@ -29,7 +29,7 @@
   - **정서현**: 데이터 파악 후 EDA, 성장률 기준 Top10 기업 산출 
   - **최창효**: 데이터 파악 후 EDA, 1인당 매출액과 1인당 연금보혐료를 활용한 점수 계산  
   - **최현숙**: 데이터 파악 후 EDA, 기업 2년이상 유지된 곳, 최소 직원수 40명 이상 기준으로 유니콘 기업 선정
-- 자세한 내용: [week1 Branch README](https://github.com/Ki-Sung/wantedlab_free_onboarding/blob/week1/README.md)
+- 자세한 내용: [Ki-sung/wantedlab_free_onboarding/week1_branch](https://github.com/Ki-Sung/wantedlab_free_onboarding/tree/week1)
 - 사용한 언어: [![Python Badge](http://img.shields.io/badge/-Python%20-blue?style=flat-square&&logoColor=yellow&logo=python&link=https://www.python.org/)](https://www.python.org/) [![Numpy Badge](http://img.shields.io/badge/-Numpy%20-013243?style=flat-square&&logoColor=white&logo=numpy&link=https://numpy.org/)](https://numpy.org/) [![Pandas Badge](http://img.shields.io/badge/-Pandas%20-150458?style=flat-square&logoColor=white&logo=pandas&link=https://pandas.pydata.org/)](https://pandas.pydata.org/) [![Matplotlib Badge](http://img.shields.io/badge/-Matplotlib%20-2350A9?style=flat-square&logoColor=white&logo=matplotlib&link=https://matplotlib.org/)](https://matplotlib.org/) [![Seaborn Badge](http://img.shields.io/badge/-Seaborn%20-212E50?style=flat-square&logoColor=white&logo=seaborn&link=https://seaborn.pydata.org/)](https://seaborn.pydata.org/) 
 ### 프로젝트 과정
 1. DB구조 파악 및 Column별 검토
@@ -61,7 +61,7 @@
   - **김기성**: 데이터 파악 후 EDA, 자비스앤빌런스 기업조사, 소득 년도별 소득건수와 수수료 결제비율 비교 분석, 상관관계가 있는 Feature들을 위주로 Regression modeling 시도 
   - **정상현**: 데이터 파악 후 EDA, XGB 분류 모델 사용, income 사업 변수 및 소득 데이터 분석, 나이별 데이터로 비교 분석, 두 번쨰 프로젝트 최종 발표 
   - **최창효**: 데이터 파악 후 EDA, 결제여부 기준으로 고객 분류, income 사업 변수 및 소득 데이터 분석
-- 자세한 내용: [week2 Branch README](https://github.com/Ki-Sung/wantedlab_free_onboarding/blob/week2/README.md)
+- 자세한 내용: [Ki-sung/wantedlab_free_onboarding/week2_branch](https://github.com/Ki-Sung/wantedlab_free_onboarding/tree/week2)
 - 사용한 언어: [![Python Badge](http://img.shields.io/badge/-Python%20-blue?style=flat-square&&logoColor=yellow&logo=python&link=https://www.python.org/)](https://www.python.org/) [![Numpy Badge](http://img.shields.io/badge/-Numpy%20-013243?style=flat-square&&logoColor=white&logo=numpy&link=https://numpy.org/)](https://numpy.org/) [![Pandas Badge](http://img.shields.io/badge/-Pandas%20-150458?style=flat-square&logoColor=white&logo=pandas&link=https://pandas.pydata.org/)](https://pandas.pydata.org/) [![Matplotlib Badge](http://img.shields.io/badge/-Matplotlib%20-2350A9?style=flat-square&logoColor=white&logo=matplotlib&link=https://matplotlib.org/)](https://matplotlib.org/) [![Seaborn Badge](http://img.shields.io/badge/-Seaborn%20-212E50?style=flat-square&logoColor=white&logo=seaborn&link=https://seaborn.pydata.org/)](https://seaborn.pydata.org/) [![Sklearn Badge](http://img.shields.io/badge/-Sklearn%20-F7931E?style=flat-square&logoColor=black&logo=scikit-learn&link=https://scikit-learn.org/stable/)](https://scikit-learn.org/stable/)
 ### 프로젝트 과정
 1. EDA - 각 컬럼 파악 
@@ -89,7 +89,7 @@
   - **김기성**: 데이터 파악 후 EDA, 모두의 주차장 어플 서비스와 기업조사, 각 컬럼 데이터 EDA, 탐색한 컬럼을 연결하여 분석, 세 번쨰 프로젝트 최종 발표
   - **정상현**: 데이터 파악 후 EDA, XGB 분류 모델 시도, MAE, MSE 점수 도출, Feature importance를 바탕으로 코호트 분석 시도
   - **최창효**: 데이터 파악 후 EDA, 주 데이터와 외부데이터 분석 후 merge, model baseline 설정(날짜와 요일별로 이용량이 달라질 것이다.), MSE, MAE 점수 도출
-- 자세한 내용: [week3 Branch README](https://github.com/Ki-Sung/wantedlab_free_onboarding/blob/week3/README.md)
+- 자세한 내용: [Ki-sung/wantedlab_free_onboarding/week3_branch](https://github.com/Ki-Sung/wantedlab_free_onboarding/tree/week3)
 - 사용한 언어: [![Python Badge](http://img.shields.io/badge/-Python%20-blue?style=flat-square&&logoColor=yellow&logo=python&link=https://www.python.org/)](https://www.python.org/) [![Numpy Badge](http://img.shields.io/badge/-Numpy%20-013243?style=flat-square&&logoColor=white&logo=numpy&link=https://numpy.org/)](https://numpy.org/) [![Pandas Badge](http://img.shields.io/badge/-Pandas%20-150458?style=flat-square&logoColor=white&logo=pandas&link=https://pandas.pydata.org/)](https://pandas.pydata.org/) [![Matplotlib Badge](http://img.shields.io/badge/-Matplotlib%20-2350A9?style=flat-square&logoColor=white&logo=matplotlib&link=https://matplotlib.org/)](https://matplotlib.org/) [![Seaborn Badge](http://img.shields.io/badge/-Seaborn%20-212E50?style=flat-square&logoColor=white&logo=seaborn&link=https://seaborn.pydata.org/)](https://seaborn.pydata.org/) [![Sklearn Badge](http://img.shields.io/badge/-Sklearn%20-F7931E?style=flat-square&logoColor=black&logo=scikit-learn&link=https://scikit-learn.org/stable/)](https://scikit-learn.org/stable/)
 ### 프로젝트 과정
 1. 모두의 주차장 어플과 서비스 소개 
