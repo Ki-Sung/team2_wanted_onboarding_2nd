@@ -1,4 +1,4 @@
-# wantedlab Free on Baording Data Analysis Class 2기
+# Wantedlab Free on Baording Data Analysis Class 2기
 <img src="https://user-images.githubusercontent.com/80456601/128636455-a3d15a89-d8f1-4363-94f1-ac9a3e9e9188.png" width="80%" height="50%"/>
 2021년 7~8월 원티드(wanted)에서 주관하는 데이터 분석 채용 연계형 프로젝트
 
